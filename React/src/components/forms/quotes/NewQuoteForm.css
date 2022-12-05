@@ -1,0 +1,10 @@
+.FormCellAlignRight{
+    text-align: right;
+    vertical-align: top;
+}
+input{
+    width: 350px;
+}
+.FormCellAlignLeft{
+    text-align: left;
+}

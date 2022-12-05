@@ -1,0 +1,13 @@
+.TableCellAlignRight{
+    text-align: right;
+    vertical-align: top;
+}
+
+.TableCellAlignLeft{
+    text-align: left;
+}
+
+.ModalTable td{
+    padding: 4px;
+    border: solid 1px black;
+}
